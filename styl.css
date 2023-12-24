@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+
+}
+
+
+.bg-common{
+	background: rgba(34,44,51,0.6);
+
+}
+.bg-right{
+	background: #5F9EA0;
+	border: 1px solid #B0C4DE;
+}
+.nav-link, .breadcrumb-item {
+	padding: 10px 0 10px 30px;
+	transition: all .2s;
+	color: DodgerBlue;
+}
+.card{
+	
+	color: DodgerBlue;
+}
+.breadcrumb{
+	width: 100%;
+	margin: 50px auto 0px;
+	color: DodgerBlue;
+	background: #5F9EA0;
+	text-align: center;
+	border: 1px solid #B0C4DE;
+	border-bottom: none;
+	border-radius: 10px 10px 0px 0px;
+	padding: 20px;
+}
+.card-body{
+	width: 100%;
+}
